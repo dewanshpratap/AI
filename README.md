@@ -1,4 +1,4 @@
-# AI
+# AI-My Journey
 Hi, I'm Dewansh Pratap Singh
 I'm a Computer Science undergraduate on a focused path toward AI systems engineering. Over the next three years I'll be going deep into the systems that power modern AI — not using them, but building them from scratch.
 What I'm working toward:
